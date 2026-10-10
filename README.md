@@ -20,5 +20,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurCardoso08&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-
-// ![Snake animation](https://github.com/ArthurCardoso08/ArthurCardoso08/blob/output/github-contribution-grid-snake.svg0
