@@ -2,7 +2,7 @@
 **``Aprendiz de programação``**
 Me chamo ARTHUR NEVES CARDOSO, tenho 18 anos e sou de Minas Gerais.
 Atualmente estou cursando Análise e desenvolvimento de Sistemas no IFNMG. 
-Sou fascinado por tecnologia. Meu portfólio com alguns projetos: [ArthurCardoso-Portfólio](https://arthurcardoso.vercel.app)
+Sou fascinado por tecnologia. Meu portfólio com alguns projetos: [ArthurCardoso-Portfólio](https://arthurcardoso.vercel.app).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
