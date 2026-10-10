@@ -1,7 +1,7 @@
 # Olá! Eu sou o Arthur Cardoso👨🏾‍💻 
 **``Aprendiz de programação``**
 
-#Me chamo ARTHUR NEVES CARDOSO, tenho 18 anos e sou de Minas Gerais.
+Me chamo ARTHUR NEVES CARDOSO, tenho 18 anos e sou de Minas Gerais.
 Atualmente estou cursando Análise e desenvolvimento de Sistemas no IFNMG. 
 Sou fascinado por tecnologia. Meu portfólio com alguns projetos: [ArthurCardoso-Portfólio](https://arthurcardoso.vercel.app).
 
