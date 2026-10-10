@@ -1,4 +1,7 @@
-<h1> Olá! Eu sou o Arthur Cardoso👨🏾‍💻 </h1>h1
+<h1> Olá! Eu sou o Arthur Cardoso👨🏾‍💻 </h1>
+
+<p>Me chamo ARTHUR NEVES CARDOSO, tenho 18 anos e sou de Minas Gerais.
+Atualmente estou cursando Análise e desenvolvimento de Sistemas no IFNMG.</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
