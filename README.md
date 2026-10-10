@@ -18,5 +18,11 @@
 <div>
   <a href="https://github.com/ArthurCardoso08">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurCardoso08&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  </a>
+    <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakick&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
+</p>
 </div>
