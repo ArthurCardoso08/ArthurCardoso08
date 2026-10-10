@@ -22,12 +22,12 @@ Sou fascinado por tecnologia. Meu portfólio com alguns projetos: [ArthurCardoso
 
 <div>
   <a href="https://github.com/ArthurCardoso08">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurCardoso08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurCardoso08&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     <img
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCardoso08&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCardoso08&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 </p>
 </div>
