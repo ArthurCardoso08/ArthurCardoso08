@@ -4,6 +4,42 @@
   </a>
 </div>
 
+<h1>ArthurCardoso</h1>
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #ff1028;
+  font-size: clamp(2rem, 7vw, 5rem);
+  font-weight: 800;
+  letter-spacing: -2px;
+  animation: entrada 1.2s ease-out both,
+             brilho 3s ease-in-out infinite;
+}
+
+@keyframes entrada {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes brilho {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.75; }
+}
+
 # Olá! Eu sou o Arthur Cardoso👨🏾‍💻 
 **``Aprendiz de programação``**
 
