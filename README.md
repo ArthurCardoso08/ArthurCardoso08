@@ -23,6 +23,10 @@ Sou fascinado por tecnologia. Meu portfólio com alguns projetos: [ArthurCardoso
   <a href = "mailto:10arthurcardoso10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
+  <a href="https://github.com/ArthurCardoso08">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurCardoso08&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <p align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurCardoso08&amp;theme=github_dark" alt="Renato's GitHub contribution summary" />
     <img
     align="left"
     alt="GitHub Stats"
@@ -30,10 +34,6 @@ Sou fascinado por tecnologia. Meu portfólio com alguns projetos: [ArthurCardoso
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCardoso08&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 </p>
-  <a href="https://github.com/ArthurCardoso08">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurCardoso08&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurCardoso08&amp;theme=github_dark" alt="Renato's GitHub contribution summary" />
 </p>
 </div>
 
