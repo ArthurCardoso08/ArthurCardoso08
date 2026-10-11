@@ -32,6 +32,10 @@ Sou fascinado por tecnologia. Meu portfólio com alguns projetos: [ArthurCardoso
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCardoso08&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 </p>
+    
+    <p align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renato0x&amp;theme=github_dark" alt="Renato's GitHub contribution summary" />
+</p>
 </div>
 
 <picture align="center">
