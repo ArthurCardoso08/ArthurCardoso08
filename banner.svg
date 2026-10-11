@@ -1,0 +1,39 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <rect width="900" height="220" fill="#000000"/>
+
+  <defs>
+    <linearGradient id="red" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ff3348"/>
+      <stop offset="50%" stop-color="#ff1028"/>
+      <stop offset="100%" stop-color="#d90020"/>
+    </linearGradient>
+  </defs>
+
+  <g fill="none" stroke="#ff1028" stroke-width="2">
+    <path d="M110 65 H300" opacity=".8">
+      <animate attributeName="stroke-dasharray"
+        values="0 190;190 0;0 190" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M600 155 H790" opacity=".8">
+      <animate attributeName="stroke-dasharray"
+        values="190 0;0 190;190 0" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <text x="450" y="120" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="66" font-weight="800"
+    letter-spacing="-2" fill="url(#red)">
+    ArthurCardoso
+    <animate attributeName="opacity"
+      values="0;1;1;.8;1" keyTimes="0;.15;.6;.8;1"
+      dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="450" y="160" text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="12" letter-spacing="5" fill="#777777">
+    DEVELOPER · CREATIVE MINDSET
+  </text>
+</svg>
