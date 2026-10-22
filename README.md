@@ -34,7 +34,7 @@
     />
   </a>
   &nbsp;
-  <a href="malito:10arthurcardoso10@gmail.com">
+  <a href="mailto:10arthurcardoso10@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
