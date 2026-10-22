@@ -4,7 +4,7 @@
 
 <h1 align="center">Olá! Eu sou o Arthur Cardoso 👨🏾‍💻</h1>
 
-<h3 align="center">💻 Aprendiz de programação</h3>
+<h3 align="center">💻 Iniciante de programação</h3>
 
 <p align="center">
   Me chamo Arthur Neves Cardoso, tenho 18 anos e sou de Minas Gerais.
