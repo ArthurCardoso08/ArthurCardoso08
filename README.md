@@ -98,11 +98,7 @@
 </div>
 
 <p align="center">
-  <img
-    width="96%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurCardoso08&theme=github_dark"
-    alt="Resumo de contribuições do GitHub"
-  />
+  <img width="64%" src="https://github-stats-extended.vercel.app/api?username=ArthurCardoso08;show_icons=true&amp;hide_border=true&amp;theme=dark" alt="Arthur-DEV GitHub stats" />
 </p>
 
 <p align="center">
