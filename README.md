@@ -48,6 +48,13 @@
     />
   </a>
 </div>
+ <a href="https://www.linkedin.com/in/arthur-n-cardoso-0b4367403/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</div>
 
 ---
 
