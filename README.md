@@ -78,7 +78,7 @@
 
 
 <p align="center">
-  <img width="64%" src="https://github-stats-extended.vercel.app/api?username=ArthurCardoso08&amp;show_icons=true&amp;hide_border=true&amp;theme=dark" alt="Arthur-DEV GitHub stats" />
+  <img width="64%" src="https://github-stats-extended.vercel.app/api?username=ArthurCardoso08&amp;show_icons=true&amp;hide_border=true&amp;theme=highconstract" alt="Arthur-DEV GitHub stats" />
 </p>
 
 <p align="center">
