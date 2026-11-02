@@ -88,7 +88,7 @@
       </td>
       <td align="center" valign="top">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=ArthurCardoso08&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"
+          src="https://github-readme-stats.vercel.app/api?username=ArthurCardoso08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
           alt="Estatísticas do GitHub"
           height="180"
         />
