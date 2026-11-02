@@ -82,14 +82,14 @@
     <tr>
       <td align="center" valign="top">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCardoso08&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9"
+          src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=ArthurCardoso08&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9"
           alt="Tecnologias mais utilizadas"
           height="180"
         />
       </td>
       <td align="center" valign="top">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=ArthurCardoso08&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"
+          src="https://SEU-PROJETO.vercel.app/api?username=ArthurCardoso08&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"
           alt="Estatísticas do GitHub"
           height="180"
         />
